@@ -1,4 +1,3 @@
-# Hardware-Engineering-Journey
 # Hardware Engineering Journey
 
 A documented engineering journey into Digital Hardware Design, covering Digital Logic, Verilog, Computer Architecture, RTL Design, FPGA, and Hardware Verification through structured notes, practical experiments, and hands-on projects.
