@@ -20,4 +20,4 @@ Stage 01 — Digital Logic Design
 
 ## Progress
 
-Not Started
+Digital Logic Design  ( In Progress )
