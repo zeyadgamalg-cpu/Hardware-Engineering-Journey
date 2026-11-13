@@ -12,7 +12,7 @@ My goal is to develop a strong foundation in hardware design, understand how dig
 
 | Stage | Topics | Status |
 |---|---|---|
-| 01 | Digital Logic Design | Not Started |
+| 01 | Digital Logic Design | In Progress |
 | 02 | Verilog HDL Fundamentals | Not Started |
 | 03 | Combinational & Sequential Circuits | Not Started |
 | 04 | Finite State Machines (FSM) | Not Started |
